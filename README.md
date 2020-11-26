@@ -1,38 +1,35 @@
-# Mr_InDoNeSiA
-# Saya Adalah Anggota Grub AnonymousIndonesia
-  Saya Hanya Meminta Bantu Kalian Doang.
-# Coba Dulu Buatan Saya Gaya
-# +__+
-# Terima Kasih
+# pkg update && pkg upgrade
+ 
+  Kaya Bisa update && upgrade
+# pkg install git
 
-#Kaya Biasa Update && Upgrade Dulu
+  Kita Langsung git clone 
+https://github.com/danielerik12/Mr_InDoNeSiA
 
- Pkg update && pkg upgrade
+# cd Mr_InDoNeSiA
 
-# Langsung Di Install Git Ya 
+  Langsung Buka Berkas Ya Gays
 
- pkg install git
+# chmod 777 / chmod +x * Mr_InDoNeSiA
 
-# Dan Langsung Tempel kan http://.....
+  Langsung Lihat Berkas SCRIPT Ya
 
- git clone ......
+# python2 hasil.py / python2 hasil.pyc
 
-# Dan Lihat Berkas Ya Dulu
+  Kalian Tinggal Milih Yang Mau Kalian Pakai
 
- ls
+# IP : 
 
-# Tempel Kan Berkas Ya
+  Jangan Lupa Masukin [ IP ] Target
 
- cd .....
+# PORT : 80 
 
-# Kita Langsung Ekstrak File Ya
+  Jangan Lupa [ Port ] Ya Default Ya 
 
- chmod 777 .....
+DDOS Ya Akan Berjalan Jangan Lupa Dengan Kerja Sama [ IP ]
+Akan Tidak Kuat Menahannya , Maksimal 30 Orang
+Ke Atas .
 
-# Kita Langsung Ke Dalam Ya
-
- python2 ....py
-
-# Jangan Lupa Komentar Di Bawah Ya Gaya
-# Terima Kasih .....
-# Sama-sama
+DDOS : DDoS adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan. ... Umumnya serangan ini dilakukan menggunakan beberapa komputer host penyerang sampai dengan komputer target tidak bisa diakses.
+Jangan Lupa IKUTIN Kami Terus Ya Gays
+Sekian Terima Kasih
